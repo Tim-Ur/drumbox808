@@ -1,0 +1,16 @@
+bd.wav
+cb.wav
+ch.wav
+cl.wav
+cp.wav
+cy.wav
+hc.wav
+ht.wav
+lc.wav
+lt.wav
+ma.wav
+mc.wav
+mt.wav
+oh.wav
+rs.wav
+sd.wav
